@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+tool-output/*
+!tool-output/.gitkeep
+.coverage
+htmlcov/
+.mutmut-cache
+*.pyc
