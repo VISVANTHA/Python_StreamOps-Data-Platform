@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+streamlit==1.41.1
+httpx==0.28.1
+pytest==8.3.4
+ruff==0.8.4
+pylint==3.3.3
+complexipy==3.0.0
+slipcover==1.0.16
+mutmut==3.2.3
+diff-cover==9.2.0
+astroid==3.3.8
+vulture==2.14
+dulwich==0.22.7
+pyan3==1.1.1
